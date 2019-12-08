@@ -1,0 +1,6 @@
+# Project exclude paths
+
+!/.mvn/wrapper/maven-wrapper.properties
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/MavenWrapperDownloader.java
+!/.gitignore
